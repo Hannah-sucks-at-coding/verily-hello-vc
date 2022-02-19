@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Share some of your favoriate Python built in modules!
+"""Share some of your favorite Python built in modules!
 """
 
 ###############################################################################
@@ -16,9 +16,11 @@
 #import bisect
 #import unittest
 #import sqlite3
+
 #
 ###############################################################################
 import datetime
+import glob
 
 def main():
     ###########################################################################
@@ -27,7 +29,8 @@ def main():
     #
     ###########################################################################
     print("John DiMatteo likes datetime:", datetime.__doc__)
-
+    print("HELP I'VE BEEN STUCK INSIDE THE MATRIX FOR YEARS OH GOD")
+    
 
 if __name__ == "__main__":
     main()
